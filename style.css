@@ -1,0 +1,22 @@
+.body_backgorund {
+    background-image: url("https://vice-images.vice.com/images/content-images-crops/2016/08/11/a-definitive-ranking-of-every-olympic-sport-from-most-cool-to-least-cool-body-image-1470922280-size_1000.jpg?output-quality=75");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+     color: green;
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+  
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  
